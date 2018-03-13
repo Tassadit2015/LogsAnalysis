@@ -15,12 +15,12 @@ On which days did more than 1% of requests lead to errors?
 * Download the VM Configuration: https://github.com/udacity/fullstack-nanodegree-vm
 
 
-Start the VM: vagrant up
-Login to VM: vagrant ssh
-Vagrant Directory: cd /vagrant
-Download the data with the .sql file provided by udacity.
-To load the data: psql -d news -f newsdata.sql
-To run news.py: python3 news.py
+- Start the VM: vagrant up
+- Login to VM: vagrant ssh
+- Vagrant Directory: cd /vagrant
+- Download the data with the .sql file provided by udacity.
+- To load the data: psql -d news -f newsdata.sql
+- To run news.py: python3 news.py
 
 **Views:**
 
