@@ -10,9 +10,9 @@ On which days did more than 1% of requests lead to errors?
 
 **Installation**
 
-*Install VirtualBox: https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
-*Install Vagrant: https://www.vagrantup.com/downloads.html
-*Download the VM Configuration: https://github.com/udacity/fullstack-nanodegree-vm
+* Install VirtualBox: https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
+* Install Vagrant: https://www.vagrantup.com/downloads.html
+* Download the VM Configuration: https://github.com/udacity/fullstack-nanodegree-vm
 
 
 Start the VM: vagrant up
